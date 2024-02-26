@@ -7,7 +7,7 @@ public class MyApp {
 		// create object
 		Coach theCoach;
 		theCoach = new TrackCoach();
-		theCoach = new BaseballCoach();
+//		theCoach = new BaseballCoach();
 		
 		// use the object
 		System.out.println(theCoach.getDailyWorkout());

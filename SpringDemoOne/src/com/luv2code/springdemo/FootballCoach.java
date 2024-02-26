@@ -7,4 +7,10 @@ public class FootballCoach implements Coach{
 		return "run atleast 2 kilometers daily!";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
